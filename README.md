@@ -1,11 +1,5 @@
 # Neural Network from Scratch
 
-Perfect ✅ — here’s a **technical README.md** you can directly place in your GitHub repo for `neural_net_training.py`.
-
----
-
-# Neural Network from Scratch
-
 This project implements a **neural network built entirely from scratch in Python**, without relying on high-level deep learning frameworks like TensorFlow or PyTorch. The goal is to understand the **core mechanics** behind forward propagation, backpropagation, and gradient descent.
 
 ---
